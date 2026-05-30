@@ -1,6 +1,6 @@
-### Hi there 👋
+### [About Me](https://wasirgit.github.io/AboutMe)
 
-[About Me](https://wasirgit.github.io/AboutMe)
+
 
 <!--
 **wasirgit/wasirgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
