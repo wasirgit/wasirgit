@@ -1,4 +1,7 @@
-### [About Me](https://wasirgit.github.io/AboutMe)
+<a href="https://wasirgit.github.io/AboutMe" target="_blank" rel="noopener noreferrer">
+  About Me
+</a>
+
 
 
 
